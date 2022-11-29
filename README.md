@@ -144,6 +144,7 @@ get_accuracy(dev_predictions, Y_dev)
 ![7](https://user-images.githubusercontent.com/94154679/204580927-72e2e487-f46b-4375-97ab-302a5a0d27bc.jpg)
 ![8](https://user-images.githubusercontent.com/94154679/204580943-de504214-9806-42ea-89bf-f8e990732fd5.jpg)
 ![9](https://user-images.githubusercontent.com/94154679/204581054-5d7a1f0e-6b59-4dca-b453-30871157c1fa.jpg)
+![10](https://user-images.githubusercontent.com/94154679/204581729-dd7a2f8e-0923-4626-a80f-18733ce87a6e.jpg)
 ![12](https://user-images.githubusercontent.com/94154679/204581092-08150b03-1513-4b5e-85f5-59a96a96580d.jpg)
 
 ## Result:
